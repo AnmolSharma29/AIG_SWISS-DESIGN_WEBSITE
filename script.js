@@ -60,28 +60,66 @@
     }
   ];
 
-  const faqs = [
-    ["Is Aigner a heritage watch brand?",
-     "Yes. Aigner is a Swiss watch brand with roots going back to 1888, when Fritz Meyer founded the company in Solothurn, Switzerland. Over the decades it earned a reputation as a respected Swiss watchmaker known for precision engineering, durability and timeless design, and its long watchmaking history and role in Swiss mechanical watch production make it a true heritage brand."],
-    ["Is Aigner Swiss made?",
-     "Yes. Aigner watches are Swiss Made and are manufactured in Mendrisio, in the Lugano region of Switzerland."],
-    ["How old is Aigner?",
-     "Aigner was founded in 1888, which gives the brand 138 years of Swiss watchmaking history."],
-    ["Does Aigner use an in-house movement?",
-     "Aigner’s MST in-house movements are an important part of its history. Today’s collections are powered by proven Swiss calibres: Soprod automatic movements and Ronda quartz movements."],
-    ["Is Aigner an accessible luxury brand?",
-     "Yes. Aigner offers durable, carefully crafted Swiss Made watches at an approachable price, making genuine Swiss watchmaking accessible to more people."],
-    ["Where are Aigner watches manufactured?",
-     "Aigner watches are manufactured in Mendrisio, Switzerland."],
-    ["Where can I buy original Roamer watches?",
-     "In India, original Aigner watches are available through authorised Titan partners, including Helios, Helios Luxe and Titan World stores."],
-    ["Does Aigner provide warranty?",
-     "Yes. Every Roamer watch comes with a 2-year international warranty, which can be extended by a further 5 years, by registering your watch. <a href=\"#\">Register your watch here</a>."],
-    ["What is covered in warranty?",
-     "The international warranty covers manufacturing defects."],
-    ["What are the conditions of Aigner’s 5 year international warranty?",
-     "Register your watch within 90 days of purchase using the original invoice. For automatic watches, a Titan Care service every 3 years is required to keep the extended warranty valid."]
-  ];
+  
+const faqs = [
+  ["What is the heritage of AIGNER?",
+   "Founded in Munich in 1965, AIGNER is a luxury brand celebrated for its distinctive combination of German precision, Italian inspiration, and timeless elegance. Recognised by its iconic horseshoe-shaped “A” logo, AIGNER creates refined accessories and timepieces that unite heritage with contemporary design."],
+
+  ["Are AIGNER watches Swiss Made?",
+   "AIGNER is a German luxury brand with a collection of timepieces that includes Swiss Made watches. The Swiss Made designation depends on the specifications and manufacturing standards of each individual model. Please refer to the product details for confirmation."],
+
+  ["What movements are used in AIGNER watches?",
+   "AIGNER offers timepieces with reliable quartz and mechanical movements, depending on the collection. Quartz movements provide convenient and precise timekeeping, while mechanical movements celebrate traditional watchmaking craftsmanship."],
+
+  ["What materials are used in AIGNER watches?",
+   "AIGNER timepieces are crafted with carefully selected materials. Depending on the model, these may include 316L stainless steel, sapphire crystal with anti-reflective coating, and premium leather straps. Every detail reflects the brand's commitment to design, comfort, and lasting quality."],
+
+  ["Do AIGNER watches come with a warranty?",
+   "Yes. Eligible AIGNER timepieces qualify for a <strong>5-Year Watch Warranty Extension</strong>, subject to successful registration and the applicable warranty conditions. To activate the extension, register your timepiece within 90 days of the original purchase date."],
+
+  ["How do I activate my 5-year warranty?",
+   "To activate your 5-year warranty extension:<br><br>1. Visit the official AIGNER Warranty Registration page.<br>2. Enter your personal details and watch reference number.<br>3. Provide the purchase date and retailer information.<br>4. Upload a copy of your original purchase receipt.<br>5. Submit your registration within 90 days of purchase.<br><br>Once your registration has been successfully processed, you will receive confirmation by email.<br><br><a href=\"https://form.jotform.com/242922420785357\" target=\"_blank\" rel=\"noopener noreferrer\">Register Your AIGNER Watch</a>."],
+
+  ["Which AIGNER watches qualify for the 5-year warranty extension?",
+   "The extension is available for eligible original AIGNER timepieces with qualifying reference numbers beginning with AGW or AGT. Registration must be completed within 90 days of the purchase date."],
+
+  ["What does the AIGNER warranty cover?",
+   "Warranty coverage is subject to the official terms and conditions applicable to your timepiece. Manufacturing defects may qualify for warranty service, while normal wear and tear, accidental damage, and improper handling may be excluded.<br><br>For clarification regarding your specific model, please contact AIGNER Customer Service."],
+
+  ["Do I need to keep my purchase receipt?",
+   "Yes. Your original purchase receipt is required for warranty registration and must be retained for future warranty claims. We recommend keeping a digital copy for your records."],
+
+  ["Can I register my watch after 90 days?",
+   "To qualify for the 5-year warranty extension, registration must be completed within 90 days of the original purchase date. Registrations submitted after this period may not qualify.<br><br>For assistance, please contact our Customer Service team."],
+
+  ["Does the 5-year warranty also apply to AIGNER jewellery?",
+   "The 5-year warranty extension described here applies to eligible AIGNER timepieces. Jewellery may be subject to separate warranty conditions depending on the product and market."],
+
+  ["Are AIGNER watches water-resistant?",
+   "Water resistance varies depending on the model. Please refer to the water-resistance rating shown in your watch specifications.<br><br>Water resistance is not a permanent condition and may decrease over time due to wear or impacts. Avoid operating the crown or pushers underwater and have water resistance checked after servicing or battery replacement."],
+
+  ["How should I care for my AIGNER watch?",
+   "To preserve the beauty and performance of your AIGNER timepiece, we recommend gently cleaning the case with a soft, dry cloth, avoiding exposure to harsh chemicals and extreme temperatures, and protecting the watch from strong impacts.<br><br>Leather straps should be kept away from excessive moisture, perfumes, and prolonged exposure to direct sunlight."],
+
+  ["How often should I replace the battery?",
+   "Battery life varies depending on the quartz movement and watch functions. If your watch stops or shows signs of a low battery, we recommend having it inspected by a qualified watch professional.<br><br>Prompt battery replacement helps prevent potential damage caused by battery leakage."],
+
+  ["Can I replace the strap on my AIGNER watch?",
+   "Many AIGNER watches allow strap or bracelet replacement. Compatibility depends on the case design and attachment system of the individual model.<br><br>For original replacement parts and professional fitting, please contact an authorised service partner."],
+
+  ["Where can I have my AIGNER watch serviced or repaired?",
+   "For warranty claims, repairs, or technical assistance, please contact our Customer Service team. Include your watch reference, a description of the issue, and proof of purchase where applicable.<br><br><strong>Customer Service</strong><br>Email: <a href=\"mailto:service@jdm-swiss-group.com\">service@jdm-swiss-group.com</a><br>Website: <a href=\"https://www.jdm-swiss-group.com/\" target=\"_blank\" rel=\"noopener noreferrer\">www.jdm-swiss-group.com</a>"],
+
+  ["Where can I purchase an authentic AIGNER watch?",
+   "AIGNER timepieces are available through selected authorised retailers and official AIGNER sales channels. Purchasing from an authorised source helps ensure product authenticity and access to the appropriate warranty support."],
+
+  ["How can I identify an authentic AIGNER watch?",
+   "Authentic AIGNER timepieces feature the brand's distinctive design identity and product markings. We recommend purchasing from authorised retailers and retaining your original purchase documentation.<br><br>If you are uncertain about the authenticity of a timepiece, contact Customer Service with its reference number and purchase details."],
+
+  ["What are the delivery and return conditions?",
+   "Delivery availability, shipping costs, and return conditions depend on the retailer and destination country.<br><br>Please consult the applicable terms provided during checkout or contact the retailer from whom the timepiece was purchased."]
+];
+
 
   const chevronDown = '<svg viewBox="0 0 12 12" aria-hidden="true"><path d="M2 4l4 4 4-4"/></svg>';
   const chevronRight = '<svg viewBox="0 0 10 10" aria-hidden="true"><path d="M3 1.5L6.5 5 3 8.5"/></svg>';
