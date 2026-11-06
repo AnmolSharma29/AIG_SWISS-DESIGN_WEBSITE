@@ -2,10 +2,10 @@
    Roamer CLP — hero banner to FAQ
    ========================================================= */
 :root {
-  --navy: #660033;          /* main section background            */
-  --navy-2: #500028;        /* newsletter background              */
-  --navy-deep: #660033;     /* USP strip                          */
-  --faq-bg: #660033;        /* FAQ background                     */
+  --navy: #582833;          /* main section background            */
+  --navy-2: #582833;        /* newsletter background              */
+  --navy-deep: #582833;     /* USP strip                          */
+  --faq-bg: #582833;        /* FAQ background                     */
   --card: #141414;          /* product card                       */
   --blue: #3d6ef5;          /* shop-now button                    */
   --blue-dot: #5a8dee;
@@ -71,7 +71,7 @@ button { font-family: inherit; cursor: pointer; }
   grid-template-columns: repeat(4, 1fr);
   align-items: center;
   min-height: clamp(110px, 11.5vw, 190px);
-  background: linear-gradient(180deg, #53002a 0%, var(--navy-deep) 45%, #4e0027 100%);
+  background: linear-gradient(180deg, #582833 0%, var(--navy-deep) 45%, #582833 100%);
   padding: 20px 4vw;
 }
 .usp__item {
