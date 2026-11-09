@@ -68,7 +68,7 @@ button { font-family: inherit; cursor: pointer; }
 /* ---------------- USP STRIP ---------------- */
 .usp {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   align-items: center;
   min-height: clamp(110px, 11.5vw, 190px);
   background: linear-gradient(180deg, #582833 0%, var(--navy-deep) 45%, #582833 100%);
