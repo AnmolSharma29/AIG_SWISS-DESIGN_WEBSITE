@@ -1,7 +1,7 @@
 (function () {
   "use strict";
 
-  const IMG = "https://www.titan.co.in/on/demandware.static/-/Library-Sites-TitanSharedLibrary/default/";
+  const IMG = "Images/watches/";
 
   /* ---------- DATA ---------- */
   const heritage = [
@@ -16,47 +16,34 @@
       title: "Rapid Growth & First Watches",
       text: "By 1895 Roamer had grown to 60 employees, with watchmaker Johann Studeli joining forces with Fritz Meyer. The first watches followed in 1904, the in-house MST movement in 1906, and by 1910 the team had passed 250 people.",
       img: IMG + "dw05625dcc/images/CLP/titan-roamer-clp/HeritageCard_2.jpg"
-    },
-    {
-      year: "1920s–1930s",
-      title: "Expanding Production",
-      text: "By 1923, Roamer reached a major milestone of one million watches produced. In 1932 the brand strengthened its craftsmanship further by launching its own in-house dial production line.",
-      img: IMG + "dw6374beda/images/CLP/titan-roamer-clp/HeritageCard_3.jpg"
-    },
-    {
-      year: "1945–1972",
-      title: "Global Expansion & Innovation",
-      text: "Roamer opened a representative office in New York City in 1945 and officially adopted the name “Roamer” in 1952. The patented Anfibio watertight case arrived in 1955, followed by the brand’s first quartz movement in 1972.",
-      img: IMG + "dwfff724d9/images/CLP/titan-roamer-clp/HeritageCard_4.jpg"
-    },
-    {
-      year: "2000s– Now",
-      title: "Heritage Meets Innovation",
-      text: "Roamer returned to mechanical watchmaking in 2000 and celebrated its 125th anniversary in 2013. In 2025 it introduced the HELIOS POWER collection, its first solar-powered Swiss Made chronograph movement in a full titanium case.",
-      img: IMG + "dwe32792ea/images/CLP/titan-roamer-clp/HeritageCard_5.jpg"
     }
   ];
 
   const products = [
     {
-      name: "Roamer Pro Diver 200 Quartz Analog",
-      price: "₹39200",
-      img: IMG + "dw8da3701d/images/CLP/titan-roamer-clp/RM969845417520W_1.webp"
+      name: "HERMADA TRE",
+      price: "₹XXXXX.XX",
+      img: IMG + "AGW.320003.CA.jpg"
     },
     {
-      name: "Roamer Valais Gents",
-      price: "₹36950",
-      img: IMG + "dwd637ae7b/images/CLP/titan-roamer-clp/RM988833417505W_1.webp"
+      name: "JOLANDA",
+      price: "₹XXXXX.XX",
+      img: IMG + "AGW.321004.CA.jpg"
     },
     {
-      name: "Roamer Men's R8 Quartz Analog",
-      price: "₹39200",
-      img: IMG + "dw347bc2b2/images/CLP/titan-roamer-clp/RM972980414520W_1.webp"
+      name: "MOLISE DUE",
+      price: "₹XXXXX.XX",
+      img: IMG + "AGW.317007.CA.jpg"
     },
     {
-      name: "Roamer Scala Quartz Analog",
-      price: "₹39200",
-      img: IMG + "dw524578c9/images/CLP/titan-roamer-clp/RM976830492050W_1.webp"
+      name: "OLBIA",
+      price: "₹XXXXX.XX",
+      img: IMG + "AGW.319002.CA.jpg"
+    },
+    {
+      name: "TORIN ONDA",
+      price: "₹XXXXX.XX",
+      img: IMG + "AGW.315002.CA.jpg"
     }
   ];
 
