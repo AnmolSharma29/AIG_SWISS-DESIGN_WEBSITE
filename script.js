@@ -4,18 +4,36 @@
   const IMG = "Images/watches/";
 
   /* ---------- DATA ---------- */
-  const heritage = [
+    const heritage = [
     {
-      year: "1888",
-      title: "The Beginning",
-      text: "Founded in Solothurn, Switzerland, by watchmaker Fritz Meyer, Roamer started out with just six employees, producing cylinder escapements for mechanical watches.",
-      img: IMG + "dwe924dc24/images/CLP/titan-roamer-clp/HeritageCard_1.jpg"
+      year: "1930s",
+      title: "Parisian Beginnings",
+      text: "Hungarian-born designer Etienne Aigner earns his first successes creating fine leather bags for the haute couture houses of Paris.",
+      img: "https://backend.aignermunich.de/media/94/f7/b5/1669983275/Photo-Etienne-Aigner-High-Res.jpg"
     },
     {
-      year: "1890s–1910s",
-      title: "Rapid Growth & First Watches",
-      text: "By 1895 Roamer had grown to 60 employees, with watchmaker Johann Studeli joining forces with Fritz Meyer. The first watches followed in 1904, the in-house MST movement in 1906, and by 1910 the team had passed 250 people.",
-      img: IMG + "dw05625dcc/images/CLP/titan-roamer-clp/HeritageCard_2.jpg"
+      year: "1950s",
+      title: "The Horseshoe \"A\"",
+      text: "Etienne Aigner moves to New York and presents his own collection, introducing the horseshoe-shaped \"A\" that becomes the brand's enduring signature. His first Manhattan showroom opens in 1959.",
+      img: "https://backend.aignermunich.de/media/57/d0/fd/1669983292/AIGNER_HERITAGE_24.jpg"
+    },
+    {
+      year: "1965",
+      title: "Born in Munich",
+      text: "Etienne Aigner meets businessman Heiner H. Rankl in Munich, and the AIGNER brand is born, uniting German precision with Italian inspiration.",
+      img: "https://backend.aignermunich.de/media/aa/af/c6/1669983285/AIGNER_HERITAGE_11.jpg"
+    },
+    {
+      year: "1980s",
+      title: "Beyond Leather",
+      text: "AIGNER expands its world of luxury beyond leather goods into watches, jewellery and eyewear, carrying the horseshoe signature into new categories.",
+      img: "https://backend.aignermunich.de/media/f4/88/c2/1688118674/UN-dritter-Slider-6.jpg"
+    },
+    {
+      year: "2000s – Now",
+      title: "Timeless Design, Today",
+      text: "AIGNER makes its debut at Milan Fashion Week in 2009 and opens its new Munich headquarters in 2019. Today, the AIGNER Swiss Design collection brings the brand's timeless elegance to the wrist.",
+      img: "https://backend.aignermunich.de/media/59/db/d9/1688118673/UN-dritter-Slider-1.jpg"
     }
   ];
 
